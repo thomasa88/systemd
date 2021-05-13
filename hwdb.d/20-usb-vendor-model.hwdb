@@ -5954,6 +5954,9 @@ usb:v044FpB653*
 usb:v044FpB654*
  ID_MODEL_FROM_DATABASE=Ferrari GT Force Feedback Wheel
 
+usb:v044FpB677*
+ ID_MODEL_FROM_DATABASE=T150 Racing Wheel
+
 usb:v044FpB678*
  ID_MODEL_FROM_DATABASE=T.Flight Rudder Pedals
 
